@@ -5,7 +5,7 @@
 
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World! JC</h2>
 <%
     int num = 5;
     out.println("Hi maven, I am from JSP <br>");
